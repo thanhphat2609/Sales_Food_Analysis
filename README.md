@@ -10,7 +10,7 @@ https://github.com/thanhphat2609/Sales_Food_Analysis.git
 cd source
 ```
 
-## Sale Food Report
+## Sales Food Report
 
 <img width="520" alt="report" src="https://github.com/thanhphat2609/SalesManagement/assets/84914537/6b2f7ed4-034d-4546-9325-c07f2a0a077b">
 
